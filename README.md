@@ -21,8 +21,6 @@ I'm **Nicolas** — a developer who enjoys building things, learning new technol
 
 ## 📌 Featured Projects
 
-> 🚧 Currently working on adding some of my favorite projects here.
-
 ### blank
 The name is a solid description of the project.
 
