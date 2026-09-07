@@ -24,7 +24,7 @@ I'm **Nicolas** — a developer who enjoys building things, learning new technol
 ### blank
 The name is a solid description of the project.
 
-🔗 [View project]([https://github.com/yourusername/project](https://github.com/meneerken/blank#blank))
+🔗 [View project](https://github.com/meneerken/blank#blank)
 
 ## 📊 GitHub Stats
 
